@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">disney</string>
+    <string name="welcome">Welcome</string>
+    <string name="in">Sign in</string>
+    <string name="up">Sign up</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="title">Disney Characters</string>
+    <string name="title_activity_settings">User preferences</string>
+    <string name="username">Username</string>
+    <string name="info">Full info:</string>
+</resources>
